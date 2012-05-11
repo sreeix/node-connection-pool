@@ -2,7 +2,7 @@
     "author": "Sreekanth <gabbar@activesphere.com>"
   , "name": "connection_pool"
   , "description": "Connection Pool for managing connections"
-  , "version": "0.0.1"
+  , "version": "0.0.2"
   , "repository": {
       "type": "git"
     , "url": "git@github.com:sreeix/node-connection-pool.git"
