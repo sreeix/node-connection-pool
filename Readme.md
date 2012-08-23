@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/sreeix/node-connection-pool.png)](http://travis-ci.org/sreeix/node-connection-pool)
 Connection Pool
 ================
 
